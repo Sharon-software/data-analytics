@@ -1,4 +1,4 @@
-# 📊 DataLens Analytics
+# 📊 Clear Analytics
 
 A dark-themed interactive data analytics web app built with Python and Streamlit.
 Upload your data, explore it visually, and download the results — no coding required.
