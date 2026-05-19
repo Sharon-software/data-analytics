@@ -70,3 +70,48 @@ Open your browser at **http://localhost:8501**
 ---
 
 ## 📁 Project Structure
+data-analytics/
+│
+├── app.py                 ← Main Streamlit application
+├── requirements.txt       ← Python dependencies
+├── README.md              ← You are here
+│
+└── data/
+└── sample_data.csv    ← Built-in sample dataset
+
+---
+
+## 📊 Supported Data Formats
+
+| Format | Extension |
+|---|---|
+| Comma separated | .csv |
+| Excel workbook | .xlsx |
+| Excel legacy | .xls |
+| Tab separated | Paste directly |
+
+---
+
+## 🔄 How to Update the App
+
+Make your changes in VS Code, test locally, then push to GitHub.
+Streamlit Cloud will automatically redeploy within 60 seconds.
+
+```bash
+git add .
+git commit -m "Your update message"
+git push
+```
+
+---
+
+## 👩‍💻 Author
+
+**Sharon**
+GitHub: [@Sharon-software](https://github.com/Sharon-software)
+
+---
+
+## 📄 License
+
+This project is open source and free to use.
